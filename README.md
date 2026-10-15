@@ -4,6 +4,7 @@
 
 **Je recherche une alternance Data Analyst / Data Engineer / IA à partir de septembre 2027, dans la métropole lilloise.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-noahtournant.github.io-111111?style=flat-square&logo=githubpages&logoColor=white)](https://noahtournant.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noah_Tournant-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-tournant-9613a9313/)
 ![Lille](https://img.shields.io/badge/Localisation-Lille,_France-555?style=flat-square)
 
@@ -45,6 +46,8 @@
 
 ## Projets
 
+**[Portfolio Cypher](https://noahtournant.github.io)** : mon site personnel, construit avec Next.js, React et TypeScript, autour de Cypher, un assistant IA qui présente mon parcours aux visiteurs.
+
 > Mes projets data & IA arrivent dans les dépôts de ce profil : analyse de données, tableaux de bord et modèles de Machine Learning.
 
 ## Formation & certifications
@@ -54,4 +57,4 @@
 
 ---
 
-Envie d'échanger sur la data, l'IA ou une opportunité d'alternance ? Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/noah-tournant-9613a9313/).
+Envie d'échanger sur la data, l'IA ou une opportunité d'alternance ? Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/noah-tournant-9613a9313/) ou découvrez mon [portfolio](https://noahtournant.github.io).
