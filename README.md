@@ -1,62 +1,57 @@
-# Bonjour, moi c'est Noah !
+# Bonjour, moi c'est Noah 👋
 
-## Étudiant en informatique — SUPINFO
+### Étudiant en 3e année à SUPINFO (PGE – Master of Engineering) · Data & Intelligence Artificielle
 
-Actuellement en **3e année à SUPINFO**, je développe mes compétences dans différents domaines de l'informatique et je m'intéresse particulièrement à la **cybersécurité** et aux **réseaux**
+🎯 **Je recherche une alternance Data Analyst / Data Engineer / IA à partir de septembre 2027, dans la métropole lilloise.**
 
-Je suis curieux, motivé et toujours à la recherche de nouveaux projets pour mettre en pratique mes connaissances et progresser.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noah_Tournant-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-tournant-9613a9313/)
+![Lille](https://img.shields.io/badge/📍-Lille,_France-555?style=flat-square)
 
-## Objectifs
+---
 
-- Approfondir mes compétences en **cybersécurité**
-- Développer mon expertise en **réseaux et infrastructures**
-- Explorer l'univers de la **data** et de l'**intelligence artificielle**
-- Concevoir des projets concrets et continuer à apprendre au quotidien
+## 🧠 Ce qui m'intéresse
 
-## Compétences
+- **Analyse de données** : transformer des données brutes en indicateurs utiles à la décision
+- **Machine Learning** : construire et évaluer des modèles de prédiction et de classification
+- **Data Engineering** : bases de données, requêtes SQL, pipelines et conteneurisation
+- **IA générative** : comprendre et exploiter les LLM dans des cas d'usage concrets
 
-### Programmation & développement
+## 🛠️ Compétences
 
-- Python
-- JavaScript
-- HTML / CSS
-- Git & GitHub
-- Bases de données SQL
-- C
-- C++
-- C#
-- Java
-- PHP
-- SQL
-- React
-- Node.js
-- Docker
+**Data & IA**
 
-### Réseaux & systèmes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-- AWS
-- CCNA
-- Windows Server
-- Linux Server
-- Virtualisation
-- Protocoles réseau et services courants
+**Développement**
 
-### Cybersécurité
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-- Sensibilisation à la sécurité informatique
-- Analyse des vulnérabilités
-- Bonnes pratiques de sécurisation des systèmes et réseaux
-- Veille technologique
-- 
-### 📜 Formations & Certifications
+**Outils, cloud & infrastructure**
 
-**SUPINFO** — 3e année d'études en informatique
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Réseaux](https://img.shields.io/badge/Réseaux-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-[![Cisco NetAcad - CCNA ITN](https://img.shields.io/badge/Cisco_NetAcad-CCNA:_Intro_to_Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](./Asset/CCNA-_Introduction_to_Networks_certificate.pdf)
+## 📂 Projets
 
+> 🚧 Mes projets data & IA arrivent dans les dépôts de ce profil : analyse de données, tableaux de bord et modèles de Machine Learning.
 
-##  Projets
+## 📜 Formation & certifications
 
-Retrouvez mes projets et mes expérimentations directement dans mes dépôts GitHub. Chaque projet est pour moi l'occasion d'apprendre, de résoudre des problèmes et d'améliorer mes compétences.
+- **SUPINFO** – Programme Grande École, 3e année (cursus Master of Engineering)
+- [![Cisco NetAcad - CCNA ITN](https://img.shields.io/badge/Cisco_NetAcad-CCNA:_Intro_to_Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](./Asset/CCNA-_Introduction_to_Networks_certificate.pdf)
 
-Merci de visiter mon profil !
+---
+
+📫 Envie d'échanger sur la data, l'IA ou une opportunité d'alternance ? Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/noah-tournant-9613a9313/).
