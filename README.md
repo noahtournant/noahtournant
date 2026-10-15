@@ -1,22 +1,22 @@
-# Bonjour, moi c'est Noah 👋
+# Bonjour, moi c'est Noah
 
 ### Étudiant en 3e année à SUPINFO (PGE – Master of Engineering) · Data & Intelligence Artificielle
 
-🎯 **Je recherche une alternance Data Analyst / Data Engineer / IA à partir de septembre 2027, dans la métropole lilloise.**
+**Je recherche une alternance Data Analyst / Data Engineer / IA à partir de septembre 2027, dans la métropole lilloise.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noah_Tournant-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-tournant-9613a9313/)
-![Lille](https://img.shields.io/badge/📍-Lille,_France-555?style=flat-square)
+![Lille](https://img.shields.io/badge/Localisation-Lille,_France-555?style=flat-square)
 
 ---
 
-## 🧠 Ce qui m'intéresse
+## Ce qui m'intéresse
 
 - **Analyse de données** : transformer des données brutes en indicateurs utiles à la décision
 - **Machine Learning** : construire et évaluer des modèles de prédiction et de classification
 - **Data Engineering** : bases de données, requêtes SQL, pipelines et conteneurisation
 - **IA générative** : comprendre et exploiter les LLM dans des cas d'usage concrets
 
-## 🛠️ Compétences
+## Compétences
 
 **Data & IA**
 
@@ -43,15 +43,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Réseaux](https://img.shields.io/badge/Réseaux-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-## 📂 Projets
+## Projets
 
-> 🚧 Mes projets data & IA arrivent dans les dépôts de ce profil : analyse de données, tableaux de bord et modèles de Machine Learning.
+> Mes projets data & IA arrivent dans les dépôts de ce profil : analyse de données, tableaux de bord et modèles de Machine Learning.
 
-## 📜 Formation & certifications
+## Formation & certifications
 
 - **SUPINFO** – Programme Grande École, 3e année (cursus Master of Engineering)
 - [![Cisco NetAcad - CCNA ITN](https://img.shields.io/badge/Cisco_NetAcad-CCNA:_Intro_to_Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](./Asset/CCNA-_Introduction_to_Networks_certificate.pdf)
 
 ---
 
-📫 Envie d'échanger sur la data, l'IA ou une opportunité d'alternance ? Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/noah-tournant-9613a9313/).
+Envie d'échanger sur la data, l'IA ou une opportunité d'alternance ? Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/noah-tournant-9613a9313/).
